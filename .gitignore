@@ -1,2 +1,5 @@
 Rigfile
 Rigfile.sh
+*.iml
+.idea/*
+.venv/*
